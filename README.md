@@ -1,4 +1,4 @@
-# Gabi Spoleto Couto
+# Gabriel Spoleto Couto
 
 I build focused tools for engineering workflows, maritime intelligence and CAD automation.
 This profile is a short index of selected public work; the full portfolio is at
