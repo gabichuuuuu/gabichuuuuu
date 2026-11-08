@@ -1,6 +1,6 @@
 # Gabriel Spoleto Couto
 
-I build focused tools for engineering workflows, maritime intelligence and CAD automation.
+I build AI-powered tools and automations for engineering work, from CAD and technical documentation to calculations, data and maritime intelligence, grounded in hands-on design engineering.
 
 ## Selected work
 
@@ -10,7 +10,7 @@ I build focused tools for engineering workflows, maritime intelligence and CAD a
 
 ## Working principles
 
-I care about explicit assumptions, traceable results and useful validation.
-The common thread is making specialist work easier to review, repeat and trust.
+I care about explicit assumptions, traceable results and validation against real tools.
+Automation and AI should make specialist work easier to review, repeat and trust, with the engineer still in control.
 
 [LinkedIn](https://www.linkedin.com/in/gabrielspoleto)
