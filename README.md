@@ -1,6 +1,6 @@
 # Gabriel Spoleto Couto
 
-I build AI-powered tools and automations, from engineering and CAD to data and research, grounded in hands-on design engineering.
+I develop AI-powered tools, applications and automations.
 
 ## Selected work
 
