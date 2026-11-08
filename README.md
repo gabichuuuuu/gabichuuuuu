@@ -1,6 +1,6 @@
 # Gabriel Spoleto Couto
 
-I develop AI-powered tools, applications and automations.
+I develop AI-powered tools, applications and automations, and carry out applied engineering research.
 
 ## Selected work
 
