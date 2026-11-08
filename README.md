@@ -7,8 +7,6 @@ I build focused tools for engineering workflows, maritime intelligence and CAD a
 - [solid-edge-mcp](https://github.com/gabichuuuuu/solid-edge-mcp) — local MCP server to model, assemble and draft in Solid Edge from Claude Code, Codex and other MCP clients (unofficial). Stable · v1.0.3 · 87 tools.
 - [Nautic Analytics](https://github.com/gabichuuuuu/nautic-analytics-showcase) — preliminary mooring and buoy-system analysis (work in progress).
 - [EU Maritime & Port Opportunity Monitor](https://github.com/gabichuuuuu/eu-maritime-port-opportunity-monitor-showcase) — procurement intelligence for ports and coastal infrastructure, available as an [Apify Actor](https://apify.com/gabichuuuuu/eu-maritime-port-opportunity-monitor).
-- [SE_HardwareInserter](https://github.com/gabichuuuuu/SE_HardwareInserter) — Solid Edge add-in that inserts fasteners and anchors into assemblies.
-- [SE_CadLinter](https://github.com/gabichuuuuu/SE_CadLinter) — configurable quality checks for Solid Edge documents.
 
 ## Working principles
 
